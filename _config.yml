@@ -29,18 +29,13 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: Sobre mí
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Soy una profesional con pasión por el aprendizaje constante,  el mejoramiento de las cosas, la solución a problemas, y la discusión de ideas con la esperanza de generar tecnología que impacte en las sociedades. Estoy buscando integrarme a un equipo de Ciencia de datos o desarrollo en Python.
-  I am most skilled in: <mark>Python</mark>, <mark>html+css</mark>
+  | I am most skilled in: <mark>Python</mark>, <mark>html+css</mark>
 
 content:
   - title: Experiencia Laboral # Title for the section
